@@ -1,0 +1,27 @@
+{
+  "name": "Design-Library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@storybook/cli": "^6.0.26",
+    "@storybook/react": "^6.0.26"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craig-weston/Design-Library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craig-weston/Design-Library/issues"
+  },
+  "homepage": "https://github.com/craig-weston/Design-Library#readme"
+}

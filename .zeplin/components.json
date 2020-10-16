@@ -1,0 +1,37 @@
+{
+     "plugins": [
+    {
+        "name": "@zeplin/cli-connect-react-plugin"
+    },
+    {
+        "name": "@zeplin/cli-connect-storybook-plugin",
+        "config": {
+            "url": "http://localhost:9009",
+            "startScript": "storybook"
+        }
+    }
+],
+    "projects": [],
+    "styleguides": [
+        "5f2be958ce80c2281034e4c8"
+    ],    "components": [
+        {
+            "path": "components/Button.jsx",
+            "name": "Primary Button",
+            "zeplinNames": [
+                "atom / button / primary / default / light / default",
+                "atom / button / primary / default / light / hover",
+                "atom / button / secondary / default / light / focussed",
+                "atom / button / primary / default / dark / default",
+                "atom / button / primary / default / dark / hover",
+                "atom / button / secondary / default / dark / focussed"
+            ],
+
+            "github": {
+                "repository": "craig-weston/Design-Library"
+            }
+        }
+    ]
+}
+
+
